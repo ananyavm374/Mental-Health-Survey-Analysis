@@ -2,7 +2,7 @@
 Analysis about mental health of employees in industries 
 
 Introduction
-This repository contains the exploratory data analysis (EDA) for the mental health in tech survey dataset. The goal of this EDA is to understand the distribution of variable, identify correlations, and uncover interesting patterns
+This repository contains the exploratory data analysis (EDA) for the mental health in tech survey dataset. The goal of this EDA is to understand the distribution of variable, identify correlations, and uncover interesting patterns,
 the conclusion of the project is about thoroughly analysing mental health of employees in tech industries by analysing the answers given by employees to common questionnere.By analysing this data we get to know about the attitude of the population to mental health ,frequency of mental health issues,measurements taken by employers ...etc
 
 Data Collection
