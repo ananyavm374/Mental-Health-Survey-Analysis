@@ -10,7 +10,7 @@ www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
 Data Description
 The dataset contains 1259 rows and 27 columns.
-ALl the columns except 'age' is categorical. 
+All the columns except 'age' is categorical. 
 Missing values in 'state','work interfere' and 'comments'
 
 
